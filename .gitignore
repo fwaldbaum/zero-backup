@@ -1,0 +1,4 @@
+# Passwords and runtime data stay on the server only.
+public_html/app/config.php
+public_html/app/storage/*
+!public_html/app/storage/.htaccess
